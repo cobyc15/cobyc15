@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey!
+
+My name is Coby, and I'm a third-year CS student at UVA.
 
 <!--
 **cobyc15/cobyc15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
